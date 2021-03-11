@@ -1,0 +1,985 @@
+﻿1.0	NNP	5	
+1.4	NNP	5	
+1.5	NNP	5	
+1.6	NNP	5	
+2.0	NNP	5
+2.4	NNP	5	
+2.5	NNP	5	
+3.0	NNP	5	
+3.3	NNP	5	
+3.5	NNP	5	
+48V	NNP	
+4DR	NNP	
+501발사대	NNP	
+52의장공장	NNP	
+5DR	NNP	
+6AT	NNP	
+7DCT	NNP	
+7속DCT	NNP	
+7인승	NNP	
+8DCT	NNP	
+A/TURE	NNP	
+ABS	NNP	
+ALG	NNP	
+ASSY	NNP	
+ASS'Y	NNP	
+AUDIO	NNP	
+B/BEAM	NNP	
+BACK	NNP	
+Base	NNP	
+BATTERY	NNP	
+BEAM	NNP	
+BED-IN	NNP	
+BHMC	NNP	
+BIW	NNP	
+BLOCK	NNP	
+BODY	NNP	
+BOOSTER	NNP	
+BRAKE	NNP	
+BREATHER	NNP	
+BRKT	NNP	
+B-SUV	NNP	
+BUILD	NNP	
+BUMPER	NNP	
+C/BLOCK	NNP	
+C/BOX	NNP	
+C/HEAD	NNP	
+C/LAMP	NNP	
+C/PAD	NNP	
+C/ROD	NNP	
+CABLE	NNP	
+CAD	NNP	
+CANISTER	NNP	
+CARPET	NNP	
+CARRIER	NNP	
+CAS	NNP	
+CHARGER	NNP	
+CHECKER	NNP	
+CLAY	NNP	
+CLUSTER	NNP	
+CLUTCH	NNP	
+Clutch	NNP	
+COLUMN	NNP	
+COMPL	NNP	
+COMPLETE	NNP	
+CON/HSG	NNP	
+CONSOLE	NNP	
+CONTROL	NNP	
+CONVERTER	NNP	
+COOLANT	NNP	
+COOLER	NNP	
+COOLING	NNP	
+COVER	NNP	
+COVER품목	NNP	
+COWL	NNP	
+CRANK	NNP	
+Cross	NNP	
+CROSS	NNP	
+CTION	NNP	
+CVVL	NNP	
+CVVT	NNP	
+CYLINDER	NNP	
+D.오디오	NNP	
+D6KF1	NNP	
+D7GF1	NNP	
+D7UF1	NNP	
+D8LF1	NNP	
+DA100	NNP	
+DAMPER	NNP	
+DASH	NNP	
+design	NNP	
+Design	NNP	
+DIE	NNP	
+DL3	NNP	
+DL3a	NNP	
+DN8	NNP	
+DRIVE	NNP	
+DUCT	NNP	
+DUMMY	NNP	
+eCall	NNP	
+ECALL	NNP
+E-CALL	NNP	
+e-GT	NNP	100
+ELECTRIC	NNP	
+EMBLEM	NNP	
+EMS	NNP	
+ENG	NNP	
+ENGINE	NNP	
+ENTRY	NNP	
+EO	NNP
+EO비	NNP	50	
+e-PT	NNP	
+ESC	NNP	
+ESIR	NNP	
+esting	NNP	
+EU6-TOTAL	NNP	
+EURO6	NNP	
+EV	NNP	
+EXHAUST	NNP	
+F/APRON	NNP	
+FENDER	NNP	
+FFV	NNP	
+FILLER	NNP	
+FILTER	NNP	
+Fleet	NNP	
+FLEET	NNP	
+FLOOR	NNP	
+FLR	NNP	
+FRAME	NNP	
+FTTP	NNP	
+FUEL	NNP	
+GARNISH	NNP	
+GASKET	NNP	
+GAUGE	NNP	
+GDI	NNP	
+GEN2	NNP	
+GLASS	NNP	
+GSr	NNP	
+GUARD	NNP	
+HADS	NNP	
+HCI제품개발	NNP	
+HEAT	NNP	
+HEATER	NNP	
+HEMM'G	NNP	
+HEV	NNP	
+HILS	NNP	
+HINGE	NNP	
+HOOD	NNP	
+HOSE	NNP	
+HPCU	NNP	
+IA	NNP	
+IK	NNP	
+INLET	NNP	
+INR-L/R	NNP	
+JDPA	NNP	
+JFa	NNP	
+JFc	NNP	
+JIG	NNP	
+JK	NNP	
+JK1c	NNP	
+JOINT	NNP	
+KATRI	NNP	
+KRW	NNP	
+L/OUT	NNP	
+LATCH	NNP	
+LDWS	NNP	
+LFa	NNP	
+LFc	NNP	
+Line	NNP	
+LINE	NNP	
+LUGG	NNP	
+LUGGAGE	NNP	
+M/CYL	NNP	
+M/UP	NNP	
+MANIFOLD	NNP	
+MDPS	NNP	
+MEMBER	NNP	
+MIRROR	NNP	
+MLDG	NNP	
+model	NNP	
+MODULAR	NNP	
+MODULE	NNP	
+MOTOR	NNP	
+MOV'G	NNP	
+MPI	NNP	
+MUFFLER	NNP	
+MULTI	NNP	
+MY	NNP	
+NA1.8/2.0	NNP	
+NCAP	NNP	
+NECK	NNP	
+N-Line	NNP	
+N-LINE	NNP	
+N-line	NNP	
+N-SPORT	NNP	
+NVH	NNP	
+N브랜드	NNP	
+N스포츠	NNP	
+N-스포츠	NNP	
+OBC	NNP	
+OBD	NNP	
+OTR	NNP	
+OUTLET	NNP	
+PALLET	NNP	
+PE	NNP	
+PHEV	NNP	
+PIECE	NNP	
+PILLAR	NNP	
+Pilot	NNP	
+PILOT	NNP	
+PIPE	NNP	
+PLATE	NNP	
+PORT	NNP	
+port	NNP	
+PRESSURE	NNP	
+PROTECTOR	NNP	
+PROTO	NNP	
+Proto	NNP	
+PT제어설계	NNP	
+PT품질확보	NNP	
+PT품확동	NNP	
+PULLEY	NNP	
+PUMP	NNP	
+QLc	NNP	
+QXi	NNP	
+RADAR	NNP	
+RAIL	NNP	
+REINF	NNP	
+R-FR	NNP	
+RING	NNP	
+R-L/R	NNP	
+ROOF	NNP	
+RSPA	NNP	
+RSVR	NNP	
+RWK비	NNP	
+S/ABS	NNP	
+SCC/AEB	NNP	
+SENSOR	NNP	
+SETT'G	NNP	
+SE활동비	NNP	
+SHAFT	NNP	
+SHIELD	NNP	
+SIDE	NNP	
+SKIN	NNP	
+SLED	NNP	
+SPEED	NNP	
+Sport	NNP	
+SPORT	NNP	
+Sports	NNP	
+SPRING	NNP	
+STACK	NNP	
+STEER'G	NNP	
+STEERING	NNP	
+Step2	NNP	
+STEP2	NNP	
+SUⅡi	NNP	
+SUPPORT	NNP	
+SUV	NNP	
+SWITCH	NNP	
+SYSTEM	NNP	
+T/DOWN	NNP	
+T/GATE	NNP	
+T/LID	NNP	
+T/OUT	NNP	
+TANK	NNP	
+T-CAR	NNP	1000
+T-car	NNP	1000
+T-Car	NNP	1000
+TEMPLATE	NNP	
+TENSION	NNP	
+TEST	NNP	
+test	NNP	
+Test	NNP	
+TGDI	NNP	1000
+T-GDI	NNP	1000
+TOOL	NNP	
+TPMS	NNP	
+TQ	NNP	
+TRACTION	NNP	
+TRIM	NNP	
+TRUNK	NNP	
+TRY-OUT	NNP	
+TUBE	NNP	
+TURBO	NNP	
+U2	NNP	
+UREA	NNP	
+UTILITY	NNP	
+V/BODY	NNP	
+VACUUM	NNP	
+VALVE	NNP	
+W/J	NNP	
+WATER	NNP	
+WHEEL	NNP	
+WIRING	NNP	
+WLTC	NNP	
+WORK	NNP	
+가공/소모품	NNP	
+가니쉬	NNP	
+가솔린	NNP	
+간이금형비	NNP	
+간접식	NNP	
+간접식TPMS	NNP	
+감Ⅱ	NNP	
+감마	NNP	
+감마Ⅱ	NNP	
+감마II	NNP	
+강화	NNP	
+강화OBD	NNP	
+강화법규	NNP	
+강화유로6	NNP	
+강화유료6	NNP	
+개발비	NNP	100	
+개선	NNP	
+개조	NNP	
+검사	NNP	
+검증	NNP	
+검차	NNP	
+검토	NNP	
+게스트엔지니어	NNP	
+게이지	NNP	100
+결과	NNP	
+경6	NNP	
+경쟁차	NNP	
+고급모델	NNP	
+고급형	NNP	
+고마력	NNP	
+고성개2팀	NNP	100
+고성능	NNP	
+고성능차	NNP	
+고압호스	NNP	
+고전압	NNP	
+고전압배터리	NNP	
+고품운송비	NNP	
+고하중	NNP	
+공구기구	NNP	
+공력개발팀	NNP	100
+공력해석용	NNP	
+공용부품	NNP	
+공용부품불출비	NNP	
+공장건설	NNP	
+공정감사	NNP	
+공정점검	NNP	
+공조설계팀	NNP	100
+관련	NNP	
+교육	NNP	
+교육영상	NNP	
+교육점검	NNP	
+구동모터	NNP	
+구동시스템	NNP	
+구영테크	NNP	
+구입비	NNP	
+구조검토	NNP	
+구조검토출장	NNP	
+국내	NNP	
+그라인더	NNP	
+그래픽	NNP	
+그랜버드	NNP	
+글라스	NNP	
+금형	NNP	
+금형개선비	NNP	
+금형개선확인차	NNP	
+금형비	NNP	
+기계장치	NNP	
+기능안전	NNP	
+기술	NNP	
+기술용역	NNP	
+기어박스	NNP	
+기종추가	NNP	
+내구	NNP	100
+내외장설계부	NNP	
+내장모델외주제작	NNP	
+내장설계1팀	NNP	100
+내장설계2팀	NNP	100
+냉각	NNP	
+냉각시험1팀	NNP	100
+네트웍	NNP	
+누	NNP	
+누우	NNP	
+다기능카메라	NNP	
+다이나모	NNP	
+다이모스	NNP	
+대동도어	NNP	
+대상	NNP		
+대응	NNP	
+대주코레스	NNP	
+대형버스	NNP	
+대형트럭	NNP	
+도난성평가	NNP	
+도난성평가	NNP	
+도어설계팀	NNP	100
+도어절개가공비	NNP	
+도어트림	NNP	
+도입부품	NNP	
+동해금속	NNP	
+드노이즈	NNP	
+드라이브	NNP	
+디오디오	NNP	
+디자인	NNP	
+디젤	NNP	
+따른	NNP	
+라인	NNP	
+람다	NNP	
+람다Ⅱ	NNP	
+람다Ⅲ	NNP	
+람다III	NNP	
+램프	NNP	
+러시아	NNP	
+레이	NNP	
+레이더	NNP	
+레이아웃	NNP	
+로봇티칭	NNP	
+로직	NNP	
+롱바디	NNP	
+루프레일	NNP	
+리드설계팀	NNP	100
+리워크	NNP	
+리크테스터	NNP	
+리프로그램	NNP	
+마스터카	NNP	
+마운트	NNP	
+마운팅	NNP	
+마이크로	NNP	
+머드가드	NNP	
+머시닝센터	NNP	
+머플러	NNP	
+멀티미디어	NNP	
+멀티인버터	NNP	
+메가트럭	NNP	
+메인운반	NNP	
+메인운반설비	NNP	
+메인조립기	NNP	
+메커니즘설계팀	NNP	100
+멕시코	NNP	
+모니터링	NNP	
+모니터링카	NNP	
+모델	NNP	
+모델링	NNP	
+목업	NNP	
+목적내구	NNP	
+몰딩	NNP	
+무빙	NNP	
+무빙메커니즘설계팀	NNP	100
+무빙설계1팀	NNP	100
+무선충전	NNP	
+바디	NNP	
+바디메커니즘설계팀	NNP	100
+바디제어개발팀	NNP	100
+바람소리	NNP	
+발포금형	NNP	
+발포패드	NNP	
+배기규제	NNP	
+배기시스템	NNP	
+배기정화장치	NNP	
+배출가스	NNP	
+배터리	NNP	
+배터리변경	NNP	
+배터리시스템	NNP	
+배포검증	NNP	
+버스바디설계	NNP	
+범퍼	NNP	
+법규	NNP	
+법규대응	NNP	
+베이스	NNP	
+베이스카	NNP	100
+벤치마킹	NNP	
+변속감	NNP	100
+변속기	NNP	100
+부가기능	NNP	
+부대설비	NNP	
+부대장치	NNP	
+부품비	NNP	50
+북미	NNP	
+불출	NNP	
+불출비	NNP	
+브라질	NNP	
+브라켓	NNP	
+브레이크	NNP	
+블록	NNP	
+비가공기	NNP	
+무빙설계1팀	NNP	100
+사내유류비	NNP	
+사양	NNP	
+사운드	NNP	
+사이드	NNP	
+사전집행	NNP	
+사천현대	NNP	
+삼차원	NNP	
+상용디젤엔진	NNP	
+상용엔진기능시험팀	NNP	100
+상용엔진성능시험팀	NNP	100
+상용의장설계팀	NNP	100
+상용전자설계팀	NNP	100
+상용전자제어개발	NNP	
+상용제어설계	NNP	
+상용제어설계팀	NNP	100
+상용차체설계팀	NNP	100
+상용현가조향설계팀	NNP	100
+상품선개선	NNP	
+상품성	NNP	
+상품성개선	NNP	
+상품성개선2차	NNP	
+상품성보완	NNP	
+샘플	NNP	
+샘플구입비	NNP	
+샘플비	NNP	
+생산	NNP	
+생산부대설비	NNP	
+생산부대장치	NNP	
+생산지시시스템	NNP	
+샤시	NNP	100
+샤시1팀	NNP	100
+샤시UPG	NNP	
+샤시라인	NNP	
+샤시부품구매2팀	NNP	100
+샤시서브	NNP	
+샤시통합제어	NNP	
+서브라인	NNP	
+서스펜션	NNP	
+서열	NNP	
+서열대차	NNP	
+서열이종방지시스템	NNP	
+서열파렛트	NNP	
+서일캐스팅	NNP	
+서진산업	NNP	
+선진용역내구	NNP	
+선행검토도	NNP	
+선행생기	NNP	
+선행시트	NNP	
+선행시트개발비	NNP	
+설계	NNP	
+설계1팀	NNP	100
+설계2팀	NNP	100	
+설명회	NNP	
+성능	NNP	
+성능시험팀	NNP	100
+성우하이텍	NNP	
+세Ⅲ2.5	NNP	
+세원물산	NNP	
+세척기	NNP	
+세타	NNP	
+세타Ⅱ	NNP	
+세타Ⅲ	NNP	
+세타III	NNP	
+소모품	NNP	
+소프트웨어	NNP	
+소형승용	NNP	
+소형전술차	NNP	
+수소탱크	NNP	
+수출3종	NNP	
+수출사양	NNP	
+슈팅브레이크	NNP	
+스마트키	NNP	
+스위치	NNP	
+스트럭처	NNP	
+스트럭처설계1팀	NNP	100
+스트럭처설계2팀	NNP	100
+스트럭처설계3팀	NNP	100
+스티어링	NNP	
+스페셜	NNP	
+스페셜에디션	NNP	
+스포일러	NNP	
+스포츠	NNP	
+스포츠모델	NNP	
+스포츠패키지	NNP	
+스포츠팩	NNP	
+스피커	NNP	
+슬레드	NNP	
+습식	NNP	
+시뮬레이터	NNP	
+시설공사	NNP	
+시스템	NNP		
+검구비	NNP	100
+제경비	NNP	100
+시트벨트	NNP	
+시트시스템설계팀	NNP	100
+시험비	NNP	100	
+신3리터	NNP	
+신U	NNP	
+신흥시장	NNP	
+실도로	NNP	
+실린더	NNP	
+실린더블록	NNP	
+실린더헤드	NNP	
+실링설비	NNP	
+실증사업	NNP	
+실차	NNP	
+싱가폴	NNP	
+쏘나타	NNP	
+아웃	NNP	
+아웃미러	NNP	
+아웃핸들	NNP	
+아이언맨	NNP	
+아진산업	NNP	
+아킨슨	NNP	
+아파추어	NNP	
+안전법규	NNP	
+안전사양	NNP	
+안테나	NNP	
+알루미늄	NNP	
+알제리	NNP	
+앗세이	NNP	
+양산금형	NNP	
+언더커버	NNP	
+에디션	NNP	
+에스오토	NNP	
+에어로시티	NNP	
+에어백	NNP	
+엑시언트	NNP	
+엔지니어	NNP		
+엔진	NNP	
+엔진룸샤시설계팀	NNP	100
+엔진생기3팀	NNP	100
+엔진서포트	NNP	100
+엔진설계1팀	NNP	100
+엔진성능시험팀	NNP	100
+엔진클러치	NNP	
+엠블럼	NNP	
+엠블렘	NNP	
+엠에스오토텍	NNP	
+연료비	NNP	
+연료시스템	NNP	
+연료전지	NNP	
+연료탱크	NNP	
+연비개선	NNP	
+열유동해석	NNP	
+오디오	NNP	
+오일레벨증가	NNP	
+오토벤트	NNP	
+오토에버	NNP	
+오픈베드	NNP
+용역비	NNP	100	
+와이어링	NNP	
+와이퍼	NNP	
+완성적재장치	NNP	
+완성차	NNP	
+왜건	NNP	
+외부	NNP	
+외부셀	NNP	
+외자	NNP	
+외장램프	NNP	
+외장모델	NNP	
+외장설계1팀	NNP	100
+외장설계2팀	NNP	100
+외장트림설계팀	NNP	100
+외주용역	NNP	
+요소수	NNP	
+용도차	NNP	
+용역	NNP	
+용접파괴	NNP	
+우레탄	NNP	
+우수AMS	NNP	
+우신산업	NNP	
+운송비	NNP	
+운영비	NNP	
+울산	NNP	
+울산12차체	NNP	
+울산1차체	NNP	
+울산21의장	NNP	
+울산3차체	NNP	
+울산51의장	NNP	
+울산51차체	NNP	
+울산5차체	NNP	
+원가절감	NNP	
+위장막	NNP	
+위장테이프	NNP	
+유니버스	NNP	
+유럽	NNP	
+유럽이관	NNP	
+유로6	NNP	100
+유로-6	NNP	100
+유로6d	NNP	100
+유로6C	NNP	100
+유로6D	NNP	100
+유류비	NNP	
+유틸리티	NNP	
+의장	NNP	
+이스라엘	NNP	
+이종방지	NNP	
+익스테리어	NNP	
+인도기술연구소	NNP	
+인도네시아	NNP	
+인도연구소	NNP	
+인증	NNP	
+인증비	NNP	
+인터쿨러	NNP	
+인테리어	NNP	
+인테리어설계팀	NNP	100
+인포테인먼트	NNP	
+일반	NNP	
+일시불	NNP	
+일지테크	NNP	
+임시측정실	NNP	
+입실론	NNP	
+자동변속기	NNP	200
+자동창고	NNP	
+자동화	NNP	
+자재랙	NNP	
+자재적재랙	NNP	
+잔존가치	NNP	
+저배기규제	NNP	
+저압호스	NNP	
+적재장치	NNP	
+적합성평가	NNP	
+전달교육	NNP	
+전동화품질보증팀	NNP	100
+전략보고회	NNP	
+전력제어	NNP		
+전부하추가	NNP	
+전자개발부	NNP	100
+전자네트워크	NNP	
+전자네트워크시험팀	NNP	100
+전자설계	NNP	
+전자설계팀	NNP	100
+전자안전제어개발팀	NNP	100
+전자전력제어시험팀	NNP	100
+전자제어개발	NNP	
+전자제어개발1팀	NNP	100
+전자제어개발팀	NNP	100
+전자제어설계1팀	NNP	100
+전자제어설계2팀	NNP	100
+전자제어설계팀	NNP	100
+전자제어평가1팀	NNP	100
+전자통합제어시험팀	NNP	100
+전자편의제어시험팀	NNP	100
+전장검사	NNP	
+전장검사설비	NNP	
+전장시스템	NNP	
+전착성평가	NNP	
+점검	NNP	
+점검출장	NNP	
+정규양산	NNP	
+정면에어백	NNP	
+정밀모델	NNP	
+정보통신	NNP	
+제어로직	NNP	
+제작비	NNP	100	
+제조품질확인회	NNP	
+제품개발	NNP	
+조립	NNP	
+조일공업	NNP	
+조향시스템	NNP	
+주행검사용	NNP	
+준중형	NNP	
+중국	NNP	
+중국기술연구소	NNP	
+중기연	NNP	
+중소형트럭	NNP	
+중형트럭	NNP	
+집중쿨런트	NNP	
+차량	NNP	
+차종	NNP	
+차체	NNP	
+MES	NNP	
+차체설계1팀	NNP	100
+차체설계2팀	NNP	100
+차체설계부	NNP	
+체결보증	NNP	
+초장축	NNP	
+촉매	NNP	
+총합검구	NNP	
+총합내구	NNP	
+추가	NNP	
+출장	NNP	
+충돌	NNP	
+취득세	NNP	
+측면에어백	NNP	
+측정기	NNP	
+측정실	NNP	
+지그	NNP	100
+카메라	NNP	
+카운티	NNP	
+카울탑커버	NNP	
+카파	NNP	50	
+칵핏	NNP
+칵핏설계팀	NNP	100	
+칼라	NNP	
+칼라칩	NNP	
+커스터마이징	NNP	
+컨버터	NNP	
+케이블	NNP	
+콘로드	NNP	
+크랑크	NNP	
+크로스	NNP	
+클러스터	NNP	
+클러치	NNP	
+클레이	NNP	
+클로저	NNP	
+클로저설계1팀	NNP	100
+클리닉	NNP	
+타이어	NNP	
+타팀	NNP	100
+태창공업	NNP	
+태흥테크	NNP	
+택시모드	NNP	
+턴키	NNP	
+테스트	NNP	
+테스트피스	NNP	100
+테일게이트	NNP	
+통합	NNP	
+통합보드	NNP	
+통합제어	NNP	
+투자비	NNP	
+툴	NNP	100
+튜닝	NNP	
+트랜스퍼	NNP	
+트럭	NNP	
+티에스오토	NNP	
+티칭	NNP	
+파워트레인	NNP	200
+파이롯트	NNG	1000
+파이롯	NNG	10
+판넬	NNP	
+팔레트	NNP	
+패스트백	NNP	
+페달	NNP	
+평가	NNP	
+평화정공	NNP	
+표시장치	NNP	
+품관1과	NNP	
+품질	NNP	
+프레임	NNP	
+프로그램	NNP	
+프로젝트	NNP	
+프리뷰	NNP	
+플랫폼	NNP	
+하우징	NNP	
+하이브리드	NNP	
+한일튜브	NNP	
+해석	NNP	
+해석모델링	NNP	
+해외	NNP	
+핸들	NNP	
+헤드	NNP	
+헤드램프	NNP	
+현대위아	NNP	
+현지	NNP	
+협력사	NNP	
+협업	NNP	
+협조제어	NNP	
+확보	NNP	
+환경차	NNP	
+환경챔버	NNP	
+활동	NNP	
+회생제동	NNP	
+효율화	NNP	
+후드래치	NNP	
+후륜	NNP	
+후방카메라	NNP	
+후속	NNP	
+후처리	NNP	
+후측방	NNP	
+휠	NNP	
+휠가드	NNP	
+흡기계	NNP	
+흡기	NNP
+매니폴드	NNP	
+흡차음	NNP	
+히트프로텍터	NNP	
+H/W	NNP	100
+보쉬	NNP	50
+케피코	NNP	100
+프로덕트	NNP	100
+L/R	NNP	100
+튜닝비	NNP	100
+부자재비	NNP	100
+전장	NNP	50
+검구비	NNP	100
+캘리퍼	NNP	100
+로보택시	NNP	100
+리던던시	NNP	100
+조향	NNP	100
+설계비	NNP	100
+치구비	NNP	100
+조립비	NNP	100
+검구비	NNP	100
+액츄에이터	NNP	100
+경정비	NNP	50
+시험차	NNP	100
+운송료	NNP	50
+사급품	NNP	100
+소모품비	NNP	100
+B/B	NNP	100
+B/C	NNP	100
+치구	NNP	50
+연료전지설계팀	NNP	100
+시작차	NNP	100
+제동	NNP	20
+간이	NNP	20
+이송	NNP	20
+X/MBR	NNP	100
+에어	NNP	20
+쇽업소버	NNP	100
+불용재고	NNP	100
+암레스트	NNP	100
+트레이	NNP	100
+관부가세	NNP	100
+차체1팀	NNP	100
+히타	NNP	100
+파리프	NNP	100
+흡압	NNP	100
+C/V	NNP	100
+출장비	NNP	100
+선행생기팀	NNP	100
+선행생기1팀	NNP	100
+프로젝트비	NNP	200
+저중속	NNP	50
+시작비	NNP	50
+모니터링비	NNP	100
+풍동	NNP	50
+목업비	NNP	100
+지원비	NNP	100
+도장	NNP	50
+설계검증비	NNP	100
+작업성	NNP	50
+선루프	NNP	200
+운송비	NNP	100
+수정비	NNP	100
+검구	NNP	50
+단품	NNP	50
+상개	NNP	200
+베드인	NNP	200
+S/W	NNP	200
+치구	NNP	50
+밴	NNP	50
+F/L	NNP	200
+개조차	NNP	200
+신차	NNP	200
+인증차	NNP	200
+구매비	NNP	100
+F/G	NNP	200
+T-1	NNP	200
+칵핏모듈설계팀	NNP	200
+차체선행설계1팀	NNP	200
+차량선행생기1팀	NNP	200
+프레스선행생기팀	NNP	200
+M6CF1	NNP	200
+A6FG1	NNP	200
+P1	NNP	200
+품평	NNP	50
+감사비	NNP	50
+익스테리어설계팀	NNP	200
+마운팅구동설계팀	NNP	200
+콘트롤설계팀	NNP	200
+냉각설계팀	NNP	200
+연료설계팀	NNP	200
+외장램프시스템설계팀	NNP	200
+전자시스템통합설계1팀	NNP	200
+ADAS설계팀	NNP	200
+인포테인먼트설계3팀	NNP	200
+승객안전시스템설계팀	NNP	200
+시트설계1팀	NNP	200
+구동인터페이스설계팀	NNP	200
+라이팅비전설계팀	NNP	200
+전자네트워크설계1팀	NNP	200
+클로저메커니즘설계팀	NNP	200
+자율주행설계팀	NNP	200
+자율주차설계팀	NNP	200
+흡배기설계팀	NNP	200
+제동설계팀	NNP	200
+샤시안전제어설계팀	NNP	200
+상용전자제어개발2팀	NNP	200
+수소전기	NNP	50
+스택설계팀	NNP	200
+전륜	NNP	50
+감속기	NNP	200
+너트런너	NNP	200
+와이어카	NNP	200
+제작비	NNP	200
+워머	NNP	50
+보조구	NNP	50
+파레트	NNP	50
+트롤리 	NNP	50
+특허권	NNP	200
+엔진룸	NNP	200
+재경비	NNP	200
+차체설계4팀	NNP	200
+전자편의파트	NNP	200
+전동화	NNP	200
+엔진	NNP	50
+A8MF1	NNP	200
+M6CF3	NNP	200
+1st	NNP	200
+2nd	NNP	200
+익스트렉터	NNP	50
+외륜	NNP	50
+동남정밀	NNP	200
